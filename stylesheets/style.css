@@ -1,0 +1,12 @@
+.topo{
+  height: 50px;
+  background-color: #6c8199;
+  color: #ffffff;
+  font-size: 14px;
+  /*line-height: 50px;*/
+  background-image: url(../img/logo.png);
+  background-repeat: no-repeat;
+  background-position: left;
+  top: 0;
+  left: 0;
+}
